@@ -1,16 +1,21 @@
-# Hi, I'm Wisdom Ojo
+### Hi, I'm Wisdom Ojo 👋
 
 Smart Contract Developer focused on Solidity, Foundry, and Web3 Security.
 
-## About Me
+---
+
+### 🚀 About Me
 
 - Building and testing smart contracts with Solidity
-- Developing with Foundry
-- Learning smart contract security and offensive security
+- Developing and testing with Foundry
+- Exploring smart contract security and auditing fundamentals
+- Learning web application penetration testing as a foundation for broader Web3/cybersecurity skills
 - Interested in DeFi, Web3 infrastructure, and blockchain security
-- Building projects to strengthen my Solidity and security skills
+- Building projects to strengthen both my Solidity and security skill sets
 
-## Smart Contract Development
+---
+
+### 🛠️ Smart Contract Development
 
 - Solidity
 - Foundry
@@ -19,29 +24,39 @@ Smart Contract Developer focused on Solidity, Foundry, and Web3 Security.
 - Chainlink Automation
 - OpenZeppelin
 
-## Security
+---
 
-- Smart Contract Security
-- Solidity Security
-- Web3 Security
+### 🔐 Security (Learning)
+
+- Smart contract security fundamentals
+- Solidity security patterns & common vulnerabilities
+- Web application penetration testing (in progress)
 - Cybersecurity fundamentals
 - Vulnerability research
 
-## Projects
+> Currently building my foundation in cybersecurity — no public security projects yet, but actively learning and practicing. Smart contract work below reflects my current shipped projects.
 
-### Chainlink VRF Raffle
+---
+
+### 📂 Projects
+
+**[Chainlink VRF Raffle](#)**
 A decentralized raffle using Chainlink VRF for verifiable randomness and Chainlink Automation for upkeep.
 
-### PiggyBank Smart Contract
+**[PiggyBank Smart Contract](#)**
 A Solidity-based decentralized piggy bank with deposit and withdrawal functionality.
 
-### Cybersecurity Beginner
-My cybersecurity learning and practice repository.
+---
 
-## Currently Learning
+### 📚 Currently Learning
 
 - Advanced Solidity
-- Smart Contract Security
-- Foundry Testing
-- DeFi Security
-- Ethereum Security
+- Smart contract security & auditing
+- Foundry testing (fuzz testing, invariant testing)
+- Web application penetration testing
+- DeFi security
+- Ethereum security
+
+---
+
+📫 Open to connecting with other builders in smart contracts and Web3 security.
