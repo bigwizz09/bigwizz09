@@ -40,7 +40,7 @@ Smart Contract Developer focused on Solidity, Foundry, and Web3 Security.
 
 ### 📂 Projects
 
-**[Chainlink VRF Raffle](#)**
+**[Chainlink VRF Raffle](#https://github.com/bigwizz09/chainlink-vrf-raffle)**
 A decentralized raffle using Chainlink VRF for verifiable randomness and Chainlink Automation for upkeep.
 
 **[PiggyBank Smart Contract](#)**
