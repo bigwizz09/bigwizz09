@@ -46,8 +46,8 @@ A decentralized raffle using Chainlink VRF for verifiable randomness and Chainli
 **[Raffle Smart Contract](https://github.com/bigwizz09/raffle)**
 A raffle smart contract built with Solidity and Foundry, picking winners with on-chain pseudo-randomness from `block.timestamp` and `block.prevrandao`.
 
-**[PiggyBank Smart Contract](#)**
-A Solidity-based decentralized piggy bank with deposit and withdrawal functionality.
+**[ERC-20 Token Vesting](https://github.com/bigwizz09/ERC20-Token-Vesting)**
+A token vesting contract using ERC-20 transfers, cliffs and linear time-based release, with revocable schedules for the owner.
 
 ---
 
