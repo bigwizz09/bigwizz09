@@ -49,6 +49,9 @@ A raffle smart contract built with Solidity and Foundry, picking winners with on
 **[ERC-20 Token Vesting](https://github.com/bigwizz09/ERC20-Token-Vesting)**
 A token vesting contract using ERC-20 transfers, cliffs and linear time-based release, with revocable schedules for the owner.
 
+**[Decentralized Escrow](https://github.com/bigwizz09/escrow)**
+An ETH escrow contract with a buyer and seller state machine, deadline-based refunds, and reentrancy protection on every payout.
+
 ---
 
 ### 📚 Currently Learning
